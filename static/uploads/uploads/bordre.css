@@ -1,0 +1,24 @@
+h1
+{
+    border-radius: 100px;
+    border-style:solid;
+}
+button
+{
+    border-style: none;
+}
+h1
+{
+    border: 4px dotted red;
+}
+span
+{
+    border-right: 1px solid;
+    
+}
+img
+{
+  border-radius: 50%;
+  height: 500px;
+  width: 500px;
+}
